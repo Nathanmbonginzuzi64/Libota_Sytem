@@ -12,6 +12,7 @@ class DatabaseSeeder extends Seeder
             UserSeeder::class,
             ClanSeeder::class,
             FamilySeeder::class,
+            ModuleDataSeeder::class,
         ]);
     }
 }
